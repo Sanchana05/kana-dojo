@@ -467,5 +467,19 @@
   "english": "If you give up, that's the end of the game. (alt wording 21)", 
   "anime": "Slam Dunk", 
   "character": "Kaede Rukawa"
-}    
+},
+{
+  "japanese": "俺は海賊王になる！",
+  "romaji": "Ore wa kaizoku ou ni naru!",
+  "english": "I'm gonna be King of the Pirates!",
+  "anime": "One Piece",
+  "character": "Monkey D. Luffy"
+},
+{
+  "japanese": "逃げちゃダメだ、逃げちゃダメだ、逃げちゃダメだ。",
+  "romaji": "Nigecha dame da, nigecha dame da, nigecha dame da.",
+  "english": "I mustn't run away, I mustn't run away, I mustn't run away.",
+  "anime": "Neon Genesis Evangelion",
+  "character": "Shinji Ikari"
+}
 ]
